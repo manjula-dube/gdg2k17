@@ -1,0 +1,22 @@
+{
+  "name": "gdg",
+  "version": "1.0.0",
+  "description": "### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vihangpatel/gdg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vihangpatel/gdg/issues"
+  },
+  "homepage": "https://github.com/vihangpatel/gdg#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
+}
