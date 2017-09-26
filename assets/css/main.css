@@ -546,7 +546,7 @@ body {
     position: relative;
     width: 16px;
     height: 2px;
-    background-color: #fff
+    background-color: #4e8df5;
 }
 
 .header--nav-toggle::before {
