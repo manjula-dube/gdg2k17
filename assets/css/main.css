@@ -622,16 +622,20 @@ body {
 .side-nav>li {
     position: relative;
     top: -5px;
-    color: #fff;
+    color: #4285f4 !important;
     font-size: 6px;
-    cursor: pointer
+    cursor: pointer;
+    font-weight: 800;
+    font-size: 18px;
 }
 
 .side-nav>li span {
     position: relative;
     top: 3px;
     left: 10px;
-    color: #fff;
+    font-weight: 800;
+    font-size: 18px;
+    color: #4285f4;
     font-size: 14px;
     font-weight: 300;
     opacity: 0;
