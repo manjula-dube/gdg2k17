@@ -1742,9 +1742,18 @@ body {
     transition: transform .4s, opacity .4s, -webkit-transform .4s
 }
 
+.outer-nav> .is-active .is-vis {
+  color:#4285f4 !important;
+}
+
+.is-vis{
+    color:#757575;
+    font-size:14px;
+}
+
 .outer-nav>li::before {
     content: "";
-    position: absolute;
+    color:#4285f4 !important;
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -25%);
@@ -1752,7 +1761,7 @@ body {
     width: 110%;
     height: 15px;
     opacity: 0;
-    background-color: #4285f4
+    
 }
 
 .outer-nav>li.is-active::before {
