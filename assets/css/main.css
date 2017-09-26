@@ -686,7 +686,6 @@ body {
 
 .side-nav li.is-active::before {
     left: -33px;
-    color: #fff
 }
 
 .intro {
