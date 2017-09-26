@@ -199,4 +199,17 @@
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
 <script src="assets/js/functions-min.js"></script>
 </body>
+<script>
+      function initMap() {
+        var uluru = {lat: 28.228645, lng: -82.690326};
+        var map = new google.maps.Map(document.getElementById('address-map'), {
+          zoom: 17,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+</script>
 </html>
