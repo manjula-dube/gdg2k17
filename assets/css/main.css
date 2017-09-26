@@ -1699,7 +1699,12 @@ body {
 }
 
 .outer-nav.is-vis {
-    visibility: visible
+    visibility: visible;
+    color : #4285f4;
+}
+
+.outer-nav > li.is-active {
+    color : #4285f4;
 }
 
 .outer-nav--return {
