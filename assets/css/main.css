@@ -279,7 +279,7 @@ body {
 }
 
 body {
-    background-color: #FFFFFF;
+    background-color: white;
     font-size: 14px;
     line-height: 1.6;
     font-family: "Montserrat", sans-serif;
@@ -686,7 +686,6 @@ body {
 
 .side-nav li.is-active::before {
     left: -33px;
-    color: #fff
 }
 
 .intro {
@@ -1096,6 +1095,7 @@ body {
 }
 
 .about {
+    color: #757575;
     position: relative;
     display: -webkit-box;
     display: -webkit-flex;
@@ -1124,31 +1124,8 @@ body {
 
 .about--banner {
     position: relative;
-    height: 475px
-}
-
-.about--banner::before {
-    content: "";
-    position: absolute;
-    top: 20px;
-    left: 200px;
-    -webkit-transform: rotate(-25deg);
-    transform: rotate(-25deg);
-    border: 5px solid #0f33ff;
-    border-right-color: transparent;
-    border-bottom-color: transparent
-}
-
-.about--banner::after {
-    content: "";
-    position: absolute;
-    top: 75px;
-    left: 400px;
-    -webkit-transform: rotate(45deg);
-    transform: rotate(45deg);
-    width: 10px;
-    height: 10px;
-    background-color: #0f33ff
+    height: 475px;
+    margin-top: 70px;
 }
 
 .about--banner h2 {
@@ -1158,27 +1135,6 @@ body {
     font-weight: 900;
     line-height: 1;
     z-index: 1
-}
-
-.about--banner h2::before {
-    content: "";
-    position: absolute;
-    top: 60px;
-    left: 268px;
-    width: 30px;
-    height: 30px;
-    background-color: #0f33ff;
-    border-radius: 50%
-}
-
-.about--banner h2::after {
-    content: "";
-    position: absolute;
-    top: 255px;
-    left: 255px;
-    width: 10px;
-    height: 10px;
-    background-color: #0f33ff
 }
 
 .about--banner a {
@@ -1230,7 +1186,6 @@ body {
     height: 75px;
     text-decoration: none;
     color: #fff;
-    border: 10px solid #0f33ff;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat
