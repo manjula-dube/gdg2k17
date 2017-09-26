@@ -1741,6 +1741,7 @@ body {
     -webkit-transform: translateX(0) translateZ(0);
     transform: translateX(0) translateZ(0);
     opacity: 1;
+    font-size:25px;
     -webkit-transition: opacity .4s, -webkit-transform .4s;
     transition: opacity .4s, -webkit-transform .4s;
     transition: transform .4s, opacity .4s;
