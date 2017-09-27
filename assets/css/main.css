@@ -1827,4 +1827,5 @@ body {
     background: #d63e35;
     text-transform: uppercase;
     border-radius: 4px;
+    cursor: pointer;
 }
