@@ -685,6 +685,7 @@ body {
 .side-nav li.is-active span {
     opacity: 1;
     visibility: visible;
+    font-weight: 800;
     -webkit-transition: opacity .4s ease-in-out;
     transition: opacity .4s ease-in-out
 }
