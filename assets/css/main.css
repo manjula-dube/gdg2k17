@@ -723,7 +723,7 @@ body {
 
 .intro--banner {
     position: relative;
-    height: 475px
+    height: 100px
 }
 
 .intro--banner::before {
