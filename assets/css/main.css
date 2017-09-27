@@ -632,6 +632,7 @@ body {
 .side-nav>li span {
     position: relative;
     top: 3px;
+    font-weight: 800;
     left: 10px;
     font-weight: 800;
     font-size: 18px;
@@ -684,6 +685,7 @@ body {
 .side-nav li.is-active span {
     opacity: 1;
     visibility: visible;
+    font-weight: 800;
     -webkit-transition: opacity .4s ease-in-out;
     transition: opacity .4s ease-in-out
 }
@@ -1409,7 +1411,7 @@ body {
 
 .hire h2 {
     margin: 0 0 20px 0;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center
 }
 
