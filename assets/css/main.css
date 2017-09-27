@@ -1828,14 +1828,16 @@ body {
     text-transform: uppercase;
     border-radius: 4px;
     cursor: pointer;
+
 }
 
 .talk-home-btn {
     text-decoration: none;
+    margin: 0 12px;
     color: white;
     padding: 10px 30px;
     font-size: 16px;
-    background: #d63e35;
+    background: #19a95f;
     text-transform: uppercase;
     border-radius: 4px;
     cursor: pointer;
