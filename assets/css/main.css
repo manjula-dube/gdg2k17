@@ -1818,3 +1818,13 @@ body {
     height: 100px;
     width : 50px;
 }
+
+.register-home-btn {
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+    font-size: 16px;
+    background: #d63e35;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
