@@ -632,6 +632,7 @@ body {
 .side-nav>li span {
     position: relative;
     top: 3px;
+    font-weight: 800;
     left: 10px;
     font-weight: 800;
     font-size: 18px;
