@@ -1807,3 +1807,14 @@ body {
     -webkit-transition-delay: .16s;
     transition-delay: .16s
 }
+
+.gdg-text {
+    margin-top: 70px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+.gdg-text img {
+    height: 100px;
+    width : 50px;
+}
