@@ -9,8 +9,12 @@ app.use('/assets', express.static(__dirname + '/assets'));
 app.get('/', function(req, res){ 
 
     res.sendFile('index.html');
+});
 
-})
+app.get('/agenda', function(req, res){
+
+    res.sendFile('table.html');
+});
 
 
 var server = app.listen(PORT, function () {
