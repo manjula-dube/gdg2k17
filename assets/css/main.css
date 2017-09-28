@@ -737,7 +737,7 @@ body {
     left: -15px;
     right: 0;
     height: 2px;
-    background-color: #282828
+    background-color: gray;
 }
 
 
@@ -809,9 +809,10 @@ body {
 .intro--options>a {
     max-width: 250px;
     text-decoration: none;
-    color: #282828;
+    color: gray;
     -webkit-transition: color .2s ease-in-out;
-    transition: color .2s ease-in-out
+    transition: color .2s ease-in-out;
+
 }
 
 .intro--options>a:hover {
