@@ -1230,7 +1230,8 @@ body {
 
 @media (max-width: 767px) {
     .about--banner {
-        height: 305px
+        height: 305px;
+        margin-top : 20px;
     }
     .about--banner::before {
         top: 0;
@@ -1242,7 +1243,8 @@ body {
     }
     .about--banner h2 {
         margin-top: 10px;
-        font-size: 44px
+        font-size: 44px;
+        margin-bottom : 10px;
     }
     .about--banner h2::before {
         top: 28px;
