@@ -6,14 +6,15 @@ var PORT = process.env.PORT || 3000;
 app.use(express.static(__dirname));
 app.use('/assets', express.static(__dirname + '/assets'));
 
+app.get('/agenda', function(req, res){
+    
+    res.sendFile( __dirname + '/table.html');
+});
+    
+
 app.get('/', function(req, res){ 
 
     res.sendFile('index.html');
-});
-
-app.get('/agenda', function(req, res){
-
-    res.sendFile('table.html');
 });
 
 
