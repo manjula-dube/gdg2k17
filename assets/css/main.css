@@ -1457,7 +1457,7 @@ body {
     color: #fff
 }
 
-.work-request input[type="submit"] {
+.work-request a {
     width: 400px;
     max-width: 100%;
     line-height: 50px;
@@ -1466,7 +1466,10 @@ body {
     text-transform: uppercase;
     background-color: #4e8df5;
     border: none;
-    border-radius: 0
+    border-radius: 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
 }
 
 .work-request input[type="submit"]:focus {
