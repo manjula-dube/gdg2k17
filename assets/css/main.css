@@ -1043,7 +1043,7 @@ body {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-    background-color: #282828;
+    background-color: #4285f4;
     border-radius: 50%;
     cursor: pointer
 }
