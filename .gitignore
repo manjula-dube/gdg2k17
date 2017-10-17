@@ -38,3 +38,4 @@ config.codekit3
 *.css.map
 
 node_modules
+.history
