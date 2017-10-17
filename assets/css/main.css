@@ -680,6 +680,10 @@ body {
     content: "07"
 }
 
+.side-nav li:nth-child(8)::before {
+    content: "08"
+}
+
 .side-nav li.is-active {
     color: #0f33ff;
     -webkit-transition: color .4s ease-in-out;
@@ -1819,6 +1823,7 @@ body {
     transition-delay: .04s
 }
 
+
 .outer-nav li.is-vis:nth-child(3) {
     -webkit-transition-delay: .08s;
     transition-delay: .08s
@@ -1833,6 +1838,8 @@ body {
     -webkit-transition-delay: .16s;
     transition-delay: .16s
 }
+
+
 
 .gdg-text {
     margin-top: 70px;
