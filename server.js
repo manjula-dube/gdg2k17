@@ -13,7 +13,14 @@ app.get('/agenda', function(req, res){
 
 app.get('/clock', function(req,res){
     res.sendFile( __dirname + '/clock/index.html');
-})
+});
+
+app.get('/get-event-data', function(req, res) {
+
+    res.send({
+        time : Date.now()
+    });
+});
     
 
 app.get('/', function(req, res){ 
