@@ -1,0 +1,15 @@
+#time-tracker {
+    position: fixed;
+    padding: 10;
+    color: green;
+    font-size: 20px;
+    display: inline-block;
+    right : 0;
+}
+
+#time-tracker .t-time {
+    float: right;
+    padding: 10;
+    font-family: sans-serif;
+    font-size: 25px;
+}

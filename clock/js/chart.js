@@ -29,6 +29,22 @@ function initChart(data) {
         timeLeft = data.duration - elapsed;
 
     renderChart(parseInt(elapsed/1000), parseInt(timeLeft/1000));
+    renderTime(timeLeft/1000);
+}
+
+function renderTime(timeLeft) {
+
+    var hr = parseInt(timeLeft / 3600),
+        min = parseInt((timeLeft - hr * 3600) / 60),
+        sec = parseInt((timeLeft - hr * 3600 - min * 60));
+
+    document.querySelector("#t-hour").innerText = padTime(hr) + 'h';
+    document.querySelector("#t-minute").innerText = padTime(min) + 'm';
+    document.querySelector("#t-second").innerText = padTime(sec) + 's';
+}
+
+function padTime(time) {
+    return time < 10 ? ('0' + time) : time;
 }
 
 function renderChart(elapsed, timeLeft) {
