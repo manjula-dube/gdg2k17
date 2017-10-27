@@ -10,6 +10,10 @@ app.get('/agenda', function(req, res){
     
     res.sendFile( __dirname + '/table.html');
 });
+
+app.get('/clock', function(req,res){
+    res.sendFile( __dirname + '/clock/index.html');
+})
     
 
 app.get('/', function(req, res){ 
