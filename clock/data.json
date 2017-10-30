@@ -1,1 +1,284 @@
-{"slot1":{"startTime":"","endTime":"","duration":"","speaker":"Ruchir Falodiya","topic":"Keynote","designation":"Social Media and Community Manager at Tata Unistore Limited & Programmer"},"slot2":{"startTime":"","endTime":"","duration":"","speaker":"Karan trehan","topic":"Google Developers Certification  Developer Story","designation":"Senior Android Developer at mPaani"},"slot3":{"startTime":"","endTime":"","duration":"","speaker":"Prof. Mukesh Patel","topic":"","designation":"Dean ISDI"},"slot4":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"Mir Mufaqam Ali","topic":"Web Based Augmented Reality(AR)","designation":"SDE -II @Hotstar"},"ai-ml-cloud":{"speaker":"Aditya Narisetty","topic":"Applied machine learning for revenue optimization for fantasy sports","designation":"Data Scientist @Dream11"},"mobile":{"speaker":"Chetan Sachdeva","topic":"Boil Boilerplate Code with Data Binding","designation":"Android Developer @Fueled"},"design":{"speaker":"Saurabh Suman","topic":"Designing for Open Source","designation":"Co-Founder @Quillabs"}},"slot5":{"startTime":"","endTime":"","duration":"","speaker":"","topic":"Morning Break","designation":""},"slot6":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"Gurudatt Kulkarni","topic":"Service Workers - Caching and beyond!!","designation":"Software Engineer @Bookmyshow"},"ai-ml-cloud":{"speaker":"Indranil Chandra","topic":"Machine Learning - for a cause","designation":"Innovator @Dhvani, Software Developer @CITI"},"mobile":{"speaker":"Kunal Chauhan","topic":"Building Instant Apps","designation":"Android Developer  @Infibeam"},"design":{"speaker":"Shaheena Attarwala","topic":" Technologies Experience Design - Philosophy & Psychology","designation":"Head of Design @Wigzo"}},"slot7":{"startTime":"","endTime":"","duration":"","speaker":"","topic":"Buffer","designation":""},"slot8":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"Rahul Kadyan","topic":"Collocation in modern","designation":"Software Engineer @Myntra"},"ai-ml-cloud":{"speaker":"Vishal Dubey","topic":" Assistance of Google Assistant","designation":"Google Certified Associate Android Developer, AutoNxt Automation Pvt. Ltd."},"mobile":{"speaker":"Vipul Shah","topic":"Remixer - Material Design","designation":"Android Engineer @Microsoft"},"design":{"speaker":"Prof David W","topic":"Design Thinking","designation":"Prof David W @ISDI"}},"slot9":{"startTime":"","endTime":"","duration":"","speaker":"","topic":"Buffer","designation":""},"slot10":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"","topic":"","designation":""},"ai-ml-cloud":{"speaker":"","topic":"","designation":""},"mobile":{"speaker":"","topic":"","designation":""},"design":{"speaker":"","topic":"","designation":""}},"slot11":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"","topic":"","designation":""},"ai-ml-cloud":{"speaker":"","topic":"","designation":""},"mobile":{"speaker":"","topic":"","designation":""},"design":{"speaker":"","topic":"","designation":""}},"slot12":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"","topic":"","designation":""},"ai-ml-cloud":{"speaker":"","topic":"","designation":""},"mobile":{"speaker":"","topic":"","designation":""},"design":{"speaker":"","topic":"","designation":""}},"slot13":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"","topic":"","designation":""},"ai-ml-cloud":{"speaker":"","topic":"","designation":""},"mobile":{"speaker":"","topic":"","designation":""},"design":{"speaker":"","topic":"","designation":""}},"slot14":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"","topic":"","designation":""},"ai-ml-cloud":{"speaker":"","topic":"","designation":""},"mobile":{"speaker":"","topic":"","designation":""},"design":{"speaker":"","topic":"","designation":""}},"slot15":{"startTime":"","endTime":"","duration":"","alarmTime":"","web":{"speaker":"","topic":"","designation":""},"ai-ml-cloud":{"speaker":"","topic":"","designation":""},"mobile":{"speaker":"","topic":"","designation":""},"design":{"speaker":"","topic":"","designation":""}}}
+{
+  "slot1": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "speaker": "Ruchir Falodiya",
+    "topic": "Keynote",
+    "designation": "Social Media and Community Manager at Tata Unistore Limited & Programmer"
+  },
+  "slot2": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "speaker": "Karan trehan",
+    "topic": "Google Developers Certification  Developer Story",
+    "designation": "Senior Android Developer at mPaani"
+  },
+  "slot3": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "speaker": "Prof. Mukesh Patel",
+    "topic": "",
+    "designation": "Dean ISDI"
+  },
+  "slot4": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "Mir Mufaqam Ali",
+      "topic": "Web Based Augmented Reality(AR)",
+      "designation": "SDE -II @Hotstar"
+    },
+    "ai-ml-cloud": {
+      "speaker": "Aditya Narisetty",
+      "topic": "Applied machine learning for revenue optimization for fantasy sports",
+      "designation": "Data Scientist @Dream11"
+    },
+    "mobile": {
+      "speaker": "Chetan Sachdeva",
+      "topic": "Boil Boilerplate Code with Data Binding",
+      "designation": "Android Developer @Fueled"
+    },
+    "design": {
+      "speaker": "Saurabh Suman",
+      "topic": "Designing for Open Source",
+      "designation": "Co-Founder @Quillabs"
+    }
+  },
+  "slot5": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "speaker": "",
+    "topic": "Morning Break",
+    "designation": ""
+  },
+  "slot6": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "Gurudatt Kulkarni",
+      "topic": "Service Workers - Caching and beyond!!",
+      "designation": "Software Engineer @Bookmyshow"
+    },
+    "ai-ml-cloud": {
+      "speaker": "Indranil Chandra",
+      "topic": "Machine Learning - for a cause",
+      "designation": "Innovator @Dhvani, Software Developer @CITI"
+    },
+    "mobile": {
+      "speaker": "Kunal Chauhan",
+      "topic": "Building Instant Apps",
+      "designation": "Android Developer  @Infibeam"
+    },
+    "design": {
+      "speaker": "Shaheena Attarwala",
+      "topic": " Technologies Experience Design - Philosophy & Psychology",
+      "designation": "Head of Design @Wigzo"
+    }
+  },
+  "slot7": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "speaker": "",
+    "topic": "Buffer",
+    "designation": ""
+  },
+  "slot8": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "Rahul Kadyan",
+      "topic": "Collocation in modern",
+      "designation": "Software Engineer @Myntra"
+    },
+    "ai-ml-cloud": {
+      "speaker": "Vishal Dubey",
+      "topic": " Assistance of Google Assistant",
+      "designation": "Google Certified Associate Android Developer, AutoNxt Automation Pvt. Ltd."
+    },
+    "mobile": {
+      "speaker": "Vipul Shah",
+      "topic": "Remixer - Material Design",
+      "designation": "Android Engineer @Microsoft"
+    },
+    "design": {
+      "speaker": "Prof David W",
+      "topic": "Design Thinking",
+      "designation": "Prof David W @ISDI"
+    }
+  },
+  "slot9": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "speaker": "",
+    "topic": "Buffer",
+    "designation": ""
+  },
+  "slot10": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "ai-ml-cloud": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "mobile": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "design": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    }
+  },
+  "slot11": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "ai-ml-cloud": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "mobile": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "design": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    }
+  },
+  "slot12": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "ai-ml-cloud": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "mobile": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "design": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    }
+  },
+  "slot13": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "ai-ml-cloud": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "mobile": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "design": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    }
+  },
+  "slot14": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "ai-ml-cloud": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "mobile": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "design": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    }
+  },
+  "slot15": {
+    "startTime": "",
+    "endTime": "",
+    "duration": "",
+    "alarmTime": "",
+    "web": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "ai-ml-cloud": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "mobile": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    },
+    "design": {
+      "speaker": "",
+      "topic": "",
+      "designation": ""
+    }
+  }
+}
